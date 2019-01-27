@@ -1,2 +1,3 @@
 # jme4180-vibration2
-Basic Vibration Measurements
+
+This experiment is constructed to get familiar with the testing equipment and methods used in vibrational analysis. A vertical shaker which creates oscillations is used with two sensors mounted. These sensors are the Accelerometer and Force Transducer which relay the experimental data to a computer. This data is then observed and recorded with SignalCalc. The key findings from the experiment are the calibration constant and the shaker’s armature mass, which were concluded to be .1104 V/N and 0.58 kg respectively. The calibration constant is the reciprocal of the slope on the Force versus Peak Force Transducer Signal. The armature mass is the average mass between the three separate trials. 
